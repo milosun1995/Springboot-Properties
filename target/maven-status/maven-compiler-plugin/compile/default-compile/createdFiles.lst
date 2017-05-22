@@ -1,0 +1,4 @@
+com\example\springboot\property\UserProperties.class
+com\example\springboot\Application.class
+com\example\springboot\web\HelloWorldController.class
+com\example\springboot\property\HomeProperties.class
